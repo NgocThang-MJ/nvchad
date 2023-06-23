@@ -11,6 +11,9 @@ M.ui = {
   hl_override = {},
   changed_themes = {
     ["bearded-arc"] = {
+      base_30 = {
+        purple = "#20C9C5"
+      },
       base_16 = {
         base00 = "#131a29",
         base05 = "#99bbc7",
