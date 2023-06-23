@@ -12,7 +12,10 @@ M.ui = {
   changed_themes = {
     ["bearded-arc"] = {
       base_16 = {
-        base05 = "#95c9c3"
+        base00 = "#131a29",
+        base05 = "#99bbc7",
+        base0B = "#78BC9A",
+        base0C = "#FF738A",
       }
     }
   },
