@@ -1,5 +1,4 @@
 local M = {}
-
 M.echo = function(str)
   vim.cmd "redraw"
   vim.cmd "tn"
