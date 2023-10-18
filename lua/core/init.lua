@@ -50,6 +50,8 @@ opt.updatetime = 250
 -- when cursor reaches end/beginning of line
 opt.whichwrap:append "<>[]hl"
 
+opt.wildignore = "*/node_modules/**"
+
 g.mapleader = " "
 
 -- disable some default providers

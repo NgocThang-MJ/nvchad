@@ -230,7 +230,6 @@ local default_plugins = {
       vim.g.nvimtree_side = opts.view.side
     end,
   },
-
   {
     "nvim-telescope/telescope.nvim",
     dependencies = "nvim-treesitter/nvim-treesitter",

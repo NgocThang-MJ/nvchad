@@ -17,6 +17,7 @@ M.general = {
 
   n = {
     ["<Esc>"] = { ":noh <CR>", "Clear highlights" },
+    ["<F12>f"] = {":exe ':silent !firefox %'<CR>"},
     -- switch between windows
     ["<A-h>"] = { "<C-w>h", "Window left" },
     ["<C-h>"] = { "<C-w>h", "Window left" },
